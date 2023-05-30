@@ -1,7 +1,7 @@
-<p align="center"><img src="https://thumbnail.imgbin.com/16/5/15/imgbin-potato-cartoon-vegetable-food-potato-DQHzWRft0DXj1vSZ7WBfkbj2z_t.jpg" width="500px"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1112910304922325072/1113111227716096020/imgbin-potato-cartoon-vegetable-food-potato-DQHzWRft0DXj1vSZ7WBfkbj2z_t-removebg-preview.png" width="500px"></p>
 <h1 align="center"> C23-PS193-PotaScan </h1>
 
-Hello World! We're a team consist of 10 peoples from around Indonesia in a programs called Bangkit, founded and arranged by Google, Traveloka, Goto and Dicoding. We're in collaboration with Traveloka creating a prototype with a theme of optimizing hotel ranking based on business cases creates a prototype of hotel recommendation application.
+The carbohydrate content of potato plants is important to fulfill human food needs because carbohydrates are the main source of energy needed. As one of the tubers that can be used as a staple food to replace rice, potato production needs to be maintained in order to become a reliable food alternative for the people of Indonesia. However, during its growing period, potato plants are susceptible to various diseases that can reduce yields. Therefore, our project aims to develop an application that uses image processing technology and artificial intelligence to detect diseases in potato plants. The goal is to increase the production power of potato plants and maintain food availability for the needs of the community.
 
 <details>
    <summary align="center">More Information</summary>
