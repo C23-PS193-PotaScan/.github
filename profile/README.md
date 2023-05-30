@@ -16,7 +16,7 @@ this team come from 3 different path: Machhine Learning, Mobile Development, Clo
 |    Adika Ahmad Hanif Nazhir     | M066DSX2580 |  Machine Learning  |                [LinkedIn](https://www.linkedin.com/in/adikaahmad15/) or [GitHub](https://github.com/Dka-11)                |
 |             Muhamad Ghozi Wijaya             | C252DSX0843 | Cloud Computing |              [LinkedIn](https://www.linkedin.com/in/ghozi-wijaya-148b92221/) or [GitHub](link)               |
 |    Fakhri Yusuf Alfiansyah     | C355DSX3532 | Cloud Computing |    [LinkedIn](https://www.linkedin.com/in/fakhriyalfiansyah/) or [GitHub](https://github.com/fakhriyalfians)     |
-|       Naufal Ar Rafizi       | A252DKX3843 |  Mobile Development   | [LinkedIn](link) or [GitHub](https://github.com/Rafizi) |
+|       Naufal Ar Rafizi       | A252DKX3843 |  Mobile Development   | [LinkedIn](https://www.linkedin.com/in/naufal-r-0a8ab7138/) or [GitHub](https://github.com/Rafizi) |
 |         Shine Devi Oktaviana Ronix Syah Putri         | A066DSY2030 |  Mobile Development   |        [LinkedIn](https://www.linkedin.com/in/shine-devi/) or [GitHub](https://github.com/ShineDevi)        |
 
 
