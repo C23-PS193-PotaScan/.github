@@ -37,7 +37,7 @@ this team come from 3 different path: Machhine Learning, Mobile Development, Clo
 
 ### Cloud Computing
 1. Integrated Development Environment (IDE): Visual Studio Code
-2. Programming Languages: Node.js, Python
+2. Programming Languages: Node.js (ExpressJS)
 3. Platform: Google Cloud Platform (including Cloud Run, Cloud Build, Container Registry, and SQL)
 
 ## Repository
