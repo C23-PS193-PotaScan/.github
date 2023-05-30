@@ -26,7 +26,7 @@ this team come from 3 different path: Machhine Learning, Mobile Development, Clo
 ### Machine Learning
 1. Code Platform: Jupyter Notebook and Google Collaboration
 2. Programming Language: Python
-3. Library: Pandas, Tensorflow, Seaborn, Sklearn
+3. Library: Numpy, OpenCV, Pandas, Tensorflow, Seaborn, Matplotlib, PIL
 
 ### Mobile Development
 1. Text Editor: Android Studio
