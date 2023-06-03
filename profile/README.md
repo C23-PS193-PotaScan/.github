@@ -47,7 +47,7 @@ this team come from 3 different path: Machhine Learning, Mobile Development, Clo
 1. [Model](https://github.com/C23-PS193-PotaScan/Model-and-Classification-API). 
 
 ### Cloud Computing
-1. [API-Articles](link).
+1. [API-Articles](https://github.com/C23-PS193-PotaScan/PotaScan-API).
 
 ### Mobile Development
 1. [PotaScan-app](https://github.com/C23-PS193-PotaScan/PotaScan). 
