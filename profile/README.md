@@ -12,7 +12,8 @@ this team come from 3 different path: Machhine Learning, Mobile Development, Clo
 
 |              Name              | Bangkit-ID |   Learning Path    |                                                       Contact Link                                                       |
 | :----------------------------: | :--------: | :----------------: | :----------------------------------------------------------------------------------------------------------------------: |
-| Humaid Assaidi | M252DSX2559 |  Machine Learning  |            [LinkedIn](link) or [GitHub](https://github.com/humaidsaidi)             |
+| Humaid Assaidi | M252DSX2559 |  Machine Learning  |            [LinkedIn]
+(https://www.linkedin.com/in/humaid-assaidi-244421272/) or [GitHub](https://github.com/humaidsaidi)             |
 |    Adika Ahmad Hanif Nazhir     | M066DSX2580 |  Machine Learning  |                [LinkedIn](https://www.linkedin.com/in/adikaahmad15/) or [GitHub](https://github.com/Dka-11)                |
 |             Muhamad Ghozi Wijaya             | C252DSX0843 | Cloud Computing |              [LinkedIn](https://www.linkedin.com/in/ghozi-wijaya-148b92221/) or [GitHub](link)               |
 |    Fakhri Yusuf Alfiansyah     | C355DSX3532 | Cloud Computing |    [LinkedIn](https://www.linkedin.com/in/fakhriyalfiansyah/) or [GitHub](https://github.com/fakhriyalfians)     |
