@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/C23-PS193-PotaScan/.github/blob/main/tes.png" width="500px"></p>
+<p align="center"><img src="https://github.com/C23-PS193-PotaScan/.github/blob/main/tes.png" width="10%"></p>
 <h1 align="center"> C23-PS193-PotaScan </h1>
 
 The carbohydrate content of potato plants is important to fulfill human food needs because carbohydrates are the main source of energy needed. As one of the tubers that can be used as a staple food to replace rice, potato production needs to be maintained in order to become a reliable food alternative for the people of Indonesia. However, during its growing period, potato plants are susceptible to various diseases that can reduce yields. Therefore, our project aims to develop an application that uses image processing technology and artificial intelligence to detect diseases in potato plants. The goal is to increase the production power of potato plants and maintain food availability for the needs of the community.
